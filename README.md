@@ -9,7 +9,7 @@
 
 ### 公開しているもの
 
-- **[skills](https://github.com/MetamoL/skills)**：普段の作業で実際に使っている Claude Code 用のスキル集
+- **[skills](https://github.com/MetamoL/skills)**：普段の作業で実際に使っている AI エージェント用のスキル集（Claude Code・Codex など）
 - **[video2md](https://github.com/MetamoL/video2md)**：YouTube 動画の音声と画面を、AI が読める Markdown にするツール
 
 ### リンク
